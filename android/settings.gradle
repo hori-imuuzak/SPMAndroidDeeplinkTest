@@ -1,0 +1,3 @@
+rootProject.name = 'SPMAndroid_DeepLinkTest'
+
+include ':app'
